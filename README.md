@@ -1,3 +1,5 @@
+![Dashboard Screenshot](images/Screenshot 2026-03-06 105027.png)
+
 # 🧠 AIOps Log Analysis & Anomaly Detection Platform
 
 > An end-to-end **AI-powered log monitoring system** that ingests, analyzes, and visualizes system logs in real time — deployed on **AWS EC2** with IAM-based security, featuring ML-driven anomaly detection and an interactive **Streamlit dashboard with 3D visualizations**.
