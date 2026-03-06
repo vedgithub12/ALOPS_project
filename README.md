@@ -1,4 +1,4 @@
-![Dashboard Screenshot](images/Screenshot 2026-03-06 105027.png)
+![Dashboard Screenshot](images/dashboard.png)
 
 # 🧠 AIOps Log Analysis & Anomaly Detection Platform
 
